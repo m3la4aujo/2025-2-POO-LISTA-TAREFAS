@@ -5,5 +5,5 @@ public class Tarefa
     public string descricao {get; set;}
     public DateTime dataCriacao {get; set;}
     public int status {get; set;}
-    public DateTime dataExecucao {get; set;}
+    public DateTime dataExecucao {get; set;}
 }
