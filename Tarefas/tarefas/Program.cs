@@ -3,8 +3,8 @@ Console.WriteLine("Hello, World!");
 
 Console.WriteLine("Preenchendo dados tarefa 01");
 var tarefa01 = new Tarefa();
-tarefa01.Nome = "Fazer compras";
-tarefa01.Descricao  = "Comprar arroz, feijão e frutas";
+tarefa01.Nome = "A fazer";
+tarefa01.Descricao  = "estudar, trabalhar, viver";
 tarefa01.DataCriacao = DateTime.Now; 
 tarefa01.Status = 1;
 tarefa01.DataExecucao = null;
